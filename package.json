@@ -1,0 +1,14 @@
+{
+  "name": "daily-motd",
+  "version": "1.0.0",
+  "description": "Open-source MOTD platform with API and suggestions",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["motd", "api", "quotes", "daily", "open-source"],
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
