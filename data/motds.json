@@ -1,0 +1,4 @@
+[
+  { "id": 1, "text": "You don’t need to be perfect to be useful.", "author": "Daily MOTD", "tags": ["motivation"], "active": true },
+  { "id": 2, "text": "Bad code can be fixed. Empty files are philosophical.", "author": "Daily MOTD", "tags": ["dev"], "active": true }
+]
